@@ -6,9 +6,11 @@
   "dependencies": {
     "animate.css": "^4.1.1",
     "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
     "ejs": "^3.1.10",
     "express": "^4.21.2",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^7.0.3"
   },
   "name": "tu1btc",
   "version": "1.0.0",
@@ -20,4 +22,4 @@
   "license": "ISC",
   "keywords": [],
   "description": ""
-} 
+}
